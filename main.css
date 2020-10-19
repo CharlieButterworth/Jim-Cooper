@@ -1,0 +1,17 @@
+.main {
+    background-color: black;
+}
+
+.politicalAffilitaion{
+    color: darkblue;
+}
+
+
+.repInfo{
+    padding: 3em, 2em, 3em;
+}
+
+.committees{
+    padding-right: 4em;
+    align-items:center;
+}
